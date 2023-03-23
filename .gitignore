@@ -1,3 +1,5 @@
 node_modules
 task.md
 style-guide.md
+.cache
+cache
